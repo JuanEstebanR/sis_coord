@@ -1,6 +1,6 @@
 # sis_coord
 # Taller CG 11 de febrero 
-# figura 2D en three.js
+# figura 2d en three.js
 # Figura 3d en three.js
 # REFERENCIAS : 
 # https://stackoverflow.com/questions/12425014/create-a-concave-half-sphere-with-three-js
